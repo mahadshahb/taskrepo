@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,41 @@
   to {
     transform: rotate(360deg);
   }
+} */
+.custom-border-1 {
+  border-width: 0.7px;
+  color: #ffff;
 }
+
+.custom-width {
+  width: 55%;
+}
+
+.custom_logo {
+  font-size: 2rem;
+  font-weight: 700;
+  color: #fff;
+}
+.pl-custom{
+  padding-left: 8.8rem;
+}
+.w-auto-custom{
+  width: 45rem;
+}
+.w-auto-custom-two{
+  width: 30rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
